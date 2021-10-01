@@ -5,3 +5,13 @@ body {
 .card .material-icons {
   font-size: 6rem;
 }
+
+figure {
+  transform: scale(1);
+  transition: 1s;
+}
+
+figure:hover {
+  transform: scale(0.8);
+  transition: 1s;
+}
