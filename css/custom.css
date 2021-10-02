@@ -5,3 +5,7 @@ body {
 .card .material-icons {
   font-size: 6rem;
 }
+
+.card {
+  background-color: #c90076;
+}
