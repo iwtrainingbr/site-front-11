@@ -6,6 +6,6 @@ body {
   font-size: 6rem;
 }
 
-.card {
+.card1:hover, .card2:hover {
   background-color: #c90076;
 }
