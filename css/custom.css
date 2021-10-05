@@ -27,3 +27,7 @@ figure:hover {
 article.card:hover {
   background: #DAADFD;
 }
+
+footer a {
+  color: #DEDEDE !important;
+}
